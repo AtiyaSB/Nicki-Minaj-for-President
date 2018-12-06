@@ -1,1 +1,0 @@
-# Nicki-Minaj-for-President
