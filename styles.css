@@ -1,0 +1,38 @@
+h1{
+     display: flex;
+    align-items: center;
+    text-align: center;
+    padding: 40px;
+    font-family: 'Charmonman', cursive;
+    margin: 4px;
+}
+
+p {
+    color: black;
+    font-family: 'Charmonman', cursive;
+}
+    
+ .donate{
+     background: black;
+     color: white;
+ }
+.donate button {
+    width: 400px;   
+    height: 60px;
+    font-size: 40px;
+    background: Pink;
+    color: white;
+    border-radius: 6px;
+    border: solid black 3px;
+ }
+ .header{
+     background: url("https://cdn-images-1.medium.com/max/1600/1*Fm-q4l9hm3Zx8DkYYStFWw.gif");
+     
+ }
+ .pics img:hover {
+  -webkit-transform: rotate(360deg);
+          transform: rotate(360deg);
+        width: 40px;
+        width: 40px;
+}
+ 
